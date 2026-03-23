@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "消えるまで - Kierumade",
+  "base_artist": "Hana Hope",
+  "createdAt": "2026-03-23T19:05:12.324216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消えるまで",
+      "artist": "Hana Hope",
+      "has_synced": true,
+      "path": "select/01_消えるまで_Hana_Hope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えるまで",
+      "artist": "Hana Hope",
+      "has_synced": false,
+      "path": "select/pl_01_消えるまで_Hana_Hope.txt"
+    }
+  ]
+}
